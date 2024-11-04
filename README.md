@@ -26,7 +26,7 @@ A lightweight Chrome extension powered by Groq that lets you summarize websites,
    - Download extension file:
    - Open Chrome and go to: [chrome://extensions/](chrome://extensions/)
    - Enable "Developer mode" in the top right corner
-   - Drag and drop the downloaded file directly into the extensions page
+   - Select Load unpacked and then Select the downloaded file and then open it.
    - Click on the extension icon and paste your Groq API key in settings
    - 🎉 The extension is now ready to use!
 

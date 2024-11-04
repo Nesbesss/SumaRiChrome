@@ -16,14 +16,18 @@ A lightweight Chrome extension powered by Groq that lets you summarize websites,
 
 ## 🚀 Installation
 
-1. **Download the Extension**
-   - Download the extension file from this repository
+1. **Get Your Free Groq API Key**
+   - Sign up at [Groq Console](https://console.groq.com/sign-up)
+   - After signing in, go to [API Keys](https://console.groq.com/keys)
+   - Create a new API key
+   - Copy your API key (you'll need it for the extension)
 
-2. **Install in Chrome**
-   - Open Chrome browser
-   - Go to `chrome://extensions/`
+2. **Download & Install Extension**
+   - Download extension file: [Latest Release](https://github.com/Nesbes/SumaRIChrome/releases/latest)
+   - Open Chrome and go to: [chrome://extensions/](chrome://extensions/)
    - Enable "Developer mode" in the top right corner
    - Drag and drop the downloaded file directly into the extensions page
+   - Click on the extension icon and paste your Groq API key in settings
    - 🎉 The extension is now ready to use!
 
 ## 📖 How to Use
@@ -52,6 +56,7 @@ A lightweight Chrome extension powered by Groq that lets you summarize websites,
 
 - Google Chrome Browser (Version 88 or higher)
 - Internet connection for summarization
+- Free Groq API key ([Get it here](https://console.groq.com/sign-up))
 
 ## 📄 License
 
@@ -62,4 +67,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If SumaRIChrome has saved you time and made your browsing more efficient, feel free to drop a star! It helps others discover the extension and motivates me to keep improving it.
 
 ---
-Created with 💻 by Nesbes
+Created with 💻 by [Nesbes](https://github.com/Nesbes)

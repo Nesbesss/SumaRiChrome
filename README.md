@@ -23,7 +23,7 @@ A lightweight Chrome extension powered by Groq that lets you summarize websites,
    - Copy your API key (you'll need it for the extension)
 
 2. **Download & Install Extension**
-   - Download extension file: [Latest Release](https://github.com/Nesbes/SumaRIChrome/releases/latest)
+   - Download extension file:
    - Open Chrome and go to: [chrome://extensions/](chrome://extensions/)
    - Enable "Developer mode" in the top right corner
    - Drag and drop the downloaded file directly into the extensions page

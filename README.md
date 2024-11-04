@@ -67,4 +67,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If SumaRIChrome has saved you time and made your browsing more efficient, feel free to drop a star! It helps others discover the extension and motivates me to keep improving it.
 
 ---
-Created with 💻 by [Nesbes](https://github.com/Nesbes)
+Created with 💻 by [Nesbes](https://github.com/Nesbesss)
